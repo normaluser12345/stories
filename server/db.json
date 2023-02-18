@@ -1,0 +1,56 @@
+{
+    "articles": [
+        {
+            "id": "1",
+            "title": "Как научиться вставать пораньше",
+            "subtitle": "привычки",
+            "backgroundImage": "images/Frame.png"
+        },
+        {
+            "id": "2",
+            "title": "Как научиться вставать пораньше 2",
+            "subtitle": "привычки",
+            "backgroundImage": "images/Frame.png"
+        }
+    ],
+    "courses": [
+        {
+            "id": "1",
+            "title": "Как восстанавливаться, не выезжая из города.",
+            "subtitle": "Простые упражнения для полного восстановления сил.",
+            "backgroundImage": "images/1.png"
+        },
+        {
+            "id": "2",
+            "title": "Как научиться вставать пораньше после бурной ночи.",
+            "subtitle": "Только физкультура!",
+            "backgroundImage": "images/1.png"
+        },
+        {
+            "id": "3",
+            "title": "Как быстро читать книги.",
+            "subtitle": "Способы скорочтения книг.",
+            "backgroundImage": "images/1.png"
+        },
+        {
+            "id": "4",
+            "title": "Как читать книги и бегать",
+            "subtitle": "Учиться никогда не поздно!",
+            "backgroundImage": "images/1.png"
+        }
+    ],
+    "media": [
+        {
+            "id": "1",
+            "title": "Начните медитировать уже сейчас",
+            "subtitle": "6 медитаций на каждый день",
+            "backgroundImage": "images/image184.png"
+        },
+        {
+            "id": "2",
+            "title": "Медитации и сон",
+            "subtitle": "Как улучшить качество сна",
+            "backgroundImage": "images/image184.png"
+        }
+    ]
+}
